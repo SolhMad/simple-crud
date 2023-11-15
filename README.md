@@ -8,7 +8,7 @@ web dinamis simple CRUD menggunakan php mysqli
 
 ## Instalasi
 
-```bash
+
 git clone https://github.com/username/nama-proyek.git
 cd nama-proyek
 buatlah database dengan nama kuliah
