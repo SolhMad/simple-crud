@@ -8,11 +8,11 @@
 
 ## Instalasi
 ```bash
--git clone https://github.com/SolhMad/simple-crud.git
--cd simple-crud
--Buatlah database dengan nama kuliah
--Import eskul.sql di dalam database tersebut
--Aplikasi Simple Crud Siap Digunakan 
+- git clone https://github.com/SolhMad/simple-crud.git
+- cd simple-crud
+- Buatlah database dengan nama kuliah
+- Import eskul.sql di dalam database tersebut
+- Aplikasi Simple Crud Siap Digunakan 
 ```
 
 ## Fitur-Fitur
