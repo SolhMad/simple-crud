@@ -12,7 +12,7 @@
 -cd simple-crud
 -Buatlah database dengan nama kuliah
 -Import eskul.sql di dalam database tersebut
-- Aplikasi Simple Crud Siap Digunakan 
+-Aplikasi Simple Crud Siap Digunakan 
 ```
 
 ## Fitur-Fitur
