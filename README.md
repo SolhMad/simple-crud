@@ -13,9 +13,10 @@
 -Buatlah database dengan nama kuliah
 -Import eskul.sql di dalam database tersebut
 - Aplikasi Simple Crud Siap Digunakan 
+```
 
 ## Fitur-Fitur
 ```bash
 - Menggunakan bahasa PHP, Mysql, dan Bootstrap 5.3.2
 - Segala Fungsi Fitur ada di Functions.php
-
+```
