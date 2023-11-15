@@ -92,6 +92,19 @@
         return $pesan;
         
     }
+
+function cari($keyword)
+{
+    $query = "SELECT * FROM eskul
+                            WHERE
+                        nis LIKE '%$keyword%' OR 
+                        nama LIKE '%$keyword%' OR
+                        kelas LIKE '%$keyword%' OR
+                        jk LIKE '%$keyword%'
+                ";
+
+    return tampil($query);
+}
     
     
     
