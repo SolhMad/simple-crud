@@ -1,0 +1,50 @@
+.bg-custom {
+    background-color: #999;
+}
+
+.header {
+    text-align: center;
+    padding: 1px;
+    background-color: white;
+}
+
+.judul {
+    text-align: center;
+    font-weight: bold;
+}
+
+.kotakform {
+    width: 200px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.kanan{
+    float: right;
+}
+
+.clear{
+    clear: both;
+}
+
+.namatabel {
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    background-color: white;
+    line-height: 40px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+hr {
+    height: 1px;
+    background-color: black;
+    border: none;
+}
+
+footer {
+    padding: 5px;
+    text-align: center;
+    background-color: white;
+}
