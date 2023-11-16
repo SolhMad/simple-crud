@@ -2,7 +2,7 @@
 
 require 'functions.php';
 
-$students = tampil("SELECT * FROM eskul ORDER BY id DESC");
+$students = tampil("SELECT * FROM eskul ORDER BY nama ASC");
 
 // jika tombol cari di tekan
 if (isset($_POST["cari"])) {
