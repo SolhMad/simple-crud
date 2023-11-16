@@ -6,7 +6,6 @@ $students = tampil("SELECT * FROM eskul ORDER BY id DESC");
 
 // jika tombol cari di tekan
 if (isset($_POST["cari"])) {
-
     $students = cari($_POST["keyword"]);
 }
 
@@ -54,7 +53,7 @@ if (isset($_POST["daftar"])) {
     <div class="container">
         <div class="sapa">
             <div class="kiri"><b><?= $pesan; ?>Calon Anggota Ekskul PPLG</b></div>
-            <div class="kanan"><b><?= $tanggal; ?></b></div>
+            <div class="kanan"><b><?= $waktu; ?></b></div>
             <div class="clear"></div>
             <br>
         </div>

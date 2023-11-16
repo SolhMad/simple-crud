@@ -6,9 +6,23 @@
     $email = "<i>rpl@smkn1panyingkiran.sch.id</i>";
     $telp = "(0233)281221";
     $eskul = "Ekskul PPLG";
-    
-    $tanggal = date('l, d-m-Y');
-    $sapaan = "halo mad";
+
+$namaHari = array(
+    'Sunday'    => 'Minggu',
+    'Monday'    => 'Senin',
+    'Tuesday'   => 'Selasa',
+    'Wednesday' => 'Rabu',
+    'Thursday'  => 'Kamis',
+    'Friday'    => 'Jumat',
+    'Saturday'  => 'Sabtu'
+);
+
+$hariIni = date('l');
+$hIndonesia = $namaHari[$hariIni];
+$tanggal = date(', d-m-Y');
+
+$waktu = $hIndonesia . $tanggal;
+
 
     date_default_timezone_set('Asia/Jakarta');
     $jam_sekarang = date('H');
