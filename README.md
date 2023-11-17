@@ -17,12 +17,12 @@
 ```
 
 ## Fitur-Fitur
-```bash
-- Menggunakan bahasa PHP, Mysql, dan Bootstrap 5.3.2
-- Segala Fungsi Fitur ada di Functions.php
-```
+✔ Menggunakan bahasa PHP, Mysql, dan Bootstrap 5.3.2
+✔ CRUD Data
+✔ Search Data
+
 
 ## Download
-silahkan click tombol ini untuk mendownload .zip
+silahkan click tombol ini untuk mendownload .zip 👉
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/SolhMad/simple-crud/archive/master.zip)
 
