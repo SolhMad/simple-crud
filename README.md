@@ -5,7 +5,7 @@
 
 - [Instalasi](#instalasi)
 - [Fitur-Fitur](#fitur-fitur)
-- [Download.zip](#download)
+- [Download.zip](#download.zip)
 
 ## Instalasi
 ```bash
