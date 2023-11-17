@@ -17,9 +17,9 @@
 ```
 
 ## Fitur-Fitur
-✔ Menggunakan bahasa PHP, Mysql, dan Bootstrap 5.3.2
-✔ CRUD Data
-✔ Search Data
+✔ Menggunakan bahasa PHP, Mysql, dan Bootstrap 5.3.2 </br>
+✔ CRUD Data </br>
+✔ Search Data </br>
 
 
 ## Download
