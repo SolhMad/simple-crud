@@ -5,7 +5,7 @@
 
 - [Instalasi](#instalasi)
 - [Fitur-Fitur](#fitur-fitur)
-- [Download.zip](#download.zip)
+- [Download.zip](#download)
 
 ## Instalasi
 ```bash
@@ -22,6 +22,7 @@
 - Segala Fungsi Fitur ada di Functions.php
 ```
 
-## Download.Zip
+## Download
+silahkan click tombol ini untuk mendownload .zip
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/SolhMad/simple-crud/archive/master.zip)
 
