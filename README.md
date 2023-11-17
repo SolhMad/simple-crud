@@ -23,6 +23,5 @@
 ```
 
 ## Download.Zip
-[![Download ZIP](https://img.shields.io/github/downloads/SolhMad/simple-crud/total.svg)](https://github.com/SolhMad/simple-crud/archive/main.zip)
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue.svg)](https://github.com/SolhMad/simple-crud/archive/master.zip)
 
