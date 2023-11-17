@@ -31,6 +31,8 @@ if (isset($_POST["daftar"])) {
 }
 
 ?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -68,16 +70,16 @@ if (isset($_POST["daftar"])) {
                 </div>
                 <div class="card-body mb-3">
                     <label for="nis" class="form-label">Nis :</label>
-                    <input type="number" class="form-control" name="nis" id="nis" required autocomplete="off">
+                    <input type="number" class="form-control" name="nis" id="nis" value="<?= $nis; ?>" readonly autocomplete="off">
 
                     <label for="nama" class="form-label">Nama :</label>
                     <input type="text" class="form-control" name="nama" id="nama" required autocomplete="off">
 
                     <select class="form-select mt-3" aria-label="Default select example" name="kelas" required>
                         <option name="kelas">-- Pilih Kelas --</option>
-                        <option name="kelas" value="12 PPLG 1">12 PPLG 1</option>
-                        <option name="kelas" value="12 PPLG 2">12 PPLG 2</option>
-                        <option name="kelas" value="12 PPLG 3">12 PPLG 3</option>
+                        <option name="kelas" value="12 PPLG 1" required>12 PPLG 1</option>
+                        <option name="kelas" value="12 PPLG 2" required>12 PPLG 2</option>
+                        <option name="kelas" value="12 PPLG 3" required>12 PPLG 3</option>
                     </select>
 
                     <label for="jk" class="mt-3">Jenis Kelamin :</label>
